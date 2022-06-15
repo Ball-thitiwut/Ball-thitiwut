@@ -1,7 +1,4 @@
 # Hi I'm Thitiwut, Welcome to github proflie :clap:
-
-สวัสดีครับ ผม ธิติวุฒิ ทิศเหนือ หรือบอล ผมพึ่งเริ่มศึกษาเรื่องการเขียนโค้ด ด้วยความคิดที่ว่าการเรียนในสาขานี้สามารถนำไปต่อยอดในอนาคตได้มาก ผมจึงเริ่มจากการเข้าร่วมกิจกรรม GIFTED SCHOOL & PRE-COLLEGE  2020 ที่จัดโดย คณะ CAMT ของ CMU  เพื่อต้องการจะใช้เทคโนโลยีและโปรแกรมต่างๆในการต่อยอดและพัฒนาธุรกิจของทางบ้านให้ดียิ่งขึ้น ผมจะพัฒนาตัวเองเพื่อเป็น software engineer ที่ดีและมีความสามารถครับบ
-
 ## Get in touch
 [facebook](https://www.facebook.com/titiwut.thitnuea)<br>
 [instagram](https://www.instagram.com/_ttw.ball_/?hl=th)
